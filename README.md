@@ -5,4 +5,4 @@ Directory:
 
 HTTPS://guides.github.com/
 
-HTTPS://guides.github.com/activités/hello-world/
+HTTPS://guides.github.com/activities/hello-world/
