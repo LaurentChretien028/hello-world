@@ -12,3 +12,5 @@ HTTPS://python.org
 https://awesome-python.com/
 
 HTTPS://docs.djangoproject.com/en/stable/
+
+https://www.pygame.org/news
