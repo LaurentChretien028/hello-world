@@ -13,4 +13,6 @@ https://awesome-python.com/
 
 HTTPS://docs.djangoproject.com/en/stable/
 
+http://flask.pocoo.org/
+
 https://www.pygame.org/news
